@@ -338,14 +338,6 @@
   visibility:hidden;
   word-wrap:break-word;
 }
-#u18_ann {
-  border-width:0px;
-  position:absolute;
-  left:442px;
-  top:825px;
-  width:1px;
-  height:1px;
-}
 #u20_img {
   border-width:0px;
   position:absolute;
@@ -1088,7 +1080,7 @@
 #u62 {
   border-width:0px;
   position:absolute;
-  left:138px;
+  left:140px;
   top:1369px;
   width:71px;
   height:20px;
@@ -1108,7 +1100,7 @@
 #u62_ann {
   border-width:0px;
   position:absolute;
-  left:202px;
+  left:204px;
   top:1365px;
   width:1px;
   height:1px;
